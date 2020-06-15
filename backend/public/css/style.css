@@ -1,0 +1,21 @@
+.page {
+	height:100vh;
+	font-weight: bold;
+}
+
+.position {
+	position: relative;
+	top: 10%;
+}
+
+.main {
+	text-align: center;
+	font-size: 2em;
+}
+
+.card {
+	width: 50%;
+	text-align: left;
+	margin: 0 auto;
+	color: #ffffff;
+}
